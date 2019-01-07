@@ -35,7 +35,7 @@ function displayPics(){
     }
   }
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `var to `let`.
-  // let is scoped to the function displayPics, it doesn't exist outside of that function.
+  // let is scoped to the function displayPics, it doesn't exist outside of that function..
   console.log(viewed);
 
   for (let i = 0; i < 3; i++){
